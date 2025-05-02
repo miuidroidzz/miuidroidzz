@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋, Eu soul Miuidroid</h1>
+<h1 align="center">Olá👋, Eu sou Miuidroid</h1>
 <h3 align="center">Sou um estudante de 14 anos apaixonado por tecnologia, atualmente estou estudando desenvolvimento web e android, eu trabalho com apenas um celular e um notebook, mas isso não me impede de criar projetos!</h3>
 
 - 🌱 estou aprendendo **desenvolvimento web, desenvolvimento android e as vezes cybersegurança.**
