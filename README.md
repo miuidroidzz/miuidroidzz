@@ -3,7 +3,7 @@
 
 - 🌱 estou aprendendo **desenvolvimento web, desenvolvimento android e as vezes cybersegurança.**
 
-- 👨‍💻 meu site disponivel aqui [miuidroidzz.github.io/meu-site](miuidroidzz.github.io/meu-site)
+- 👨‍💻 meu site disponivel aqui [miuidroidzz.github.io/meu-site](miuidroidzz.github.io)
 
 - 1 Fato sobre mim **Eu gosto de linux!**
 
