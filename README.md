@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/miuidroidzz/miuidroidzz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/miuidroidzz/miuidroidzz/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
