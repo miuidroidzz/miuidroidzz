@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Nathanael e eu sou um jovem desenvolvedor iniciante!</h2>
+<h2 align="left">Olá👋, Meu nome é Nathanael e eu sou um jovem desenvolvedor iniciante!</h2>
 
 ###
 
@@ -44,8 +44,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miuidroidzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/miuidroidzz/miuidroidzz/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
